@@ -1,0 +1,6 @@
+Project is running fine
+Rest Apis, 
+JPA driver 
+Db-Mysql
+
+
